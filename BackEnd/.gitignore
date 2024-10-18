@@ -53,7 +53,7 @@ Thumbs.db
 .vscode/
 .idea/
 *.suo
-*.ntvs*
+*.ntvs*3
 *.njsproj
 *.sln
 
